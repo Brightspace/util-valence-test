@@ -6,7 +6,7 @@ This command line tool does an anonymous call to the get-versions route. It atte
 Setup
 -----
 
-You must have Visual Studio 11 with the NuGet extension. Click "Enable NuGet Package Restore" in the Project menu before building.
+You must have Visual Studio 2012 with the NuGet extension. Click "Enable NuGet Package Restore" in the Project menu before building.
 
 Usage
 -----
