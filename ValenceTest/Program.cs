@@ -27,7 +27,7 @@ namespace ValenceTest {
 		public string AppKey { get; set; }
 
 		[Option( 'h', "host", Required = true,
-			HelpText = "URL for LMS, e.g. https://valence.desire2learn.com. Defaults to http. Set port if needed." )]
+			HelpText = "URL for LMS, e.g. https://lms.valence.desire2learn.com. Defaults to http. Set port if needed." )]
 		public string Host { get; set; }
 
 		[Option( 'v', "verbose", DefaultValue = false,
